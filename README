@@ -1,6 +1,19 @@
+# DeadWood Board Game
+DeadWood is a Java-based board game application developed to demonstrate object-oriented programming principles using the Model-View-Controller (MVC) architecture. The game features a graphical user interface built with Java Swing, providing an interactive experience for players.
+Features:
+Implements MVC architecture for clear separation of concerns.
+Interactive GUI developed with Java Swing.
+Simulates a board game environment with various player actions and game states.
+Usage:
+Clone the repository: ```bash git clone https://github.com/Brian-St/DeadWood-Board-Game.git
+
+Compile the Java source files: ```bash javac -d bin src/*.java
+
+Run the application: ```bash java -cp bin DeadWoodGame
+
 Deadwood: "The Cheapass Game of Acting Badly"
 A digital version, created with permission by Cheapass Games
-(A class project for Object Oriented Programming)
+
 Welcome to Deadwood!
 
 This is a simple board game for 2-8 players (6 or fewer recommended)
